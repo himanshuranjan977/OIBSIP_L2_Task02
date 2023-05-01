@@ -1,6 +1,6 @@
 # OIBSIP_L2_Task02
-#TRIBUTE PAGE 
-TRIBUTE PAGE built in Html and Css
+# TRIBUTE PAGE 
+Tribute Page built in Html and Css
 
 
 This was a website built to showcase my technical skills, web design skills.
